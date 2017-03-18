@@ -29,7 +29,7 @@ Small dataset
 0 ≤ N ≤ 200.
 Large dataset
 
-0 ≤ N ≤ 106.
+0 ≤ N ≤ 10^6.
 
 See the full problem at https://code.google.com/codejam/contest/6254486/dashboard#s=p0
 
