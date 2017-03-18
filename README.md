@@ -37,4 +37,5 @@ See the full problem at https://code.google.com/codejam/contest/6254486/dashboar
 ################################# RUNNING FILE ###########################################
 
 step1. python sleep.py
+
 step2. in sleep> prompt type <input_file> <space> <output_file>
